@@ -12,6 +12,8 @@ public class Principal {
 		
 		System.out.println("version git hub");
 		System.out.println("version git hub editada desde remoto");
+		
+		System.out.println("linea para generar conflicto con la rama becario");
 	}
 
 }
