@@ -17,6 +17,8 @@ public class Principal {
 		System.out.println("linea para generar conflicto con la rama becario");
 
 		System.out.println("syso para generar conflicto");
+		
+		System.out.println("push and commit ");
 
 	}
 
